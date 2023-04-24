@@ -1,5 +1,5 @@
 const API_KEY = "26d22f3075f4fac5fc546bef52dc6d9d"; // add your api key here
-//hello
+//hello okay
 const DAYS_OF_THE_WEEK = ["sun", "mon", "tue", "wed", "thu", "fri", "sat"];
 let selectedCityText;
 let selectedCity;
